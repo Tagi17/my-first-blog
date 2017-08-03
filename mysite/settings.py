@@ -26,7 +26,7 @@ SECRET_KEY = '!i%_j^m-q66q5j=_et#zvb(2v0l@3wcqk)+fvailmg&!td=xm&'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nazia.pythonanywhere.com']
 
 
 
